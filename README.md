@@ -1,2 +1,2 @@
 # typescript-intro-nestjs
-Learn Typescript basic to start with Nestjs
+Learn Typescript basic to start with NestJS
